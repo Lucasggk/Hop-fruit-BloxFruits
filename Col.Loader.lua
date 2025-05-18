@@ -51,7 +51,7 @@ end
 
 -- Loop contínuo
 RunService.Heartbeat:Connect(function()
+	pcall(removerAvisos)
 	pcall(coletarFrutas)
 	pcall(armazenarFrutas)
-	pcall(removerAvisos)
 end)
