@@ -1,4 +1,4 @@
-print(getgenv().team)
+print(tostring(getgenv().team))
 if getgenv().team == "" or getgenv().team == " " then
 getgenv().team = "Marines"
 else
