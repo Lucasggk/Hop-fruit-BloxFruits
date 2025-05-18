@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lucasggk/Hop-fruit-BloxFruits/main/Logo.png" width="300"/>
+  ![Lucas Script](logo.png)
 </p>
 
 <h1 align="center">🍇 Hop Fruit - Coleta Automática de Frutas no Blox Fruits! 🍍</h1>
