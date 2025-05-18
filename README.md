@@ -4,8 +4,10 @@
 <h1 align="center">🍇 Hop Fruit - Coleta Automática de Frutas no Blox Fruits! 🍍</h1>
 
 <p align="center">
+  <img src="Imagem.png" alt="Lucas Script" width="30">
   <b>Script 100% otimizado para encontrar, coletar e armazenar frutas automaticamente!</b><br>
   Nenhum clique manual, sem lag, e com sistema de bypass de notificações!
+  <img src="Imagem.png" alt="Lucas Script" width="30">
 </p>
 
 ---
