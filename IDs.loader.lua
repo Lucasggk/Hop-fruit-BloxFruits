@@ -5,7 +5,7 @@ local IDs = {
 }
 
 if table.find(IDs, game.PlaceId) then
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasggk/Hop-fruit-BloxFruits/main/Col.Loader.lua"))()
 else
     print("Game not supported")
 end
