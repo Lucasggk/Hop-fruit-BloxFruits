@@ -21,7 +21,6 @@ local function armazenarFrutas()
 					[3] = tool
 				}
 				CommF_:InvokeServer(unpack(args))
-				print("Fruta armazenada:", frutaID)
 			end
 		end
 	end
