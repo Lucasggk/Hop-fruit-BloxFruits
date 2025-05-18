@@ -42,7 +42,7 @@ end
 -- Remover notificações de "sem espaço"
 local function removerAvisos()
 	for _, gui in pairs(game.Players.LocalPlayer.PlayerGui:GetDescendants()) do
-		if gui:IsA("TextLabel") and gui.Text:find("only store ".. tostring(FruitCap) .. " of each") then
+		if gui:IsA("TextLabel") and gui.Text:find("only store ".. tostring(fruitCap) .. " of each") then
 			gui:Destroy()
 		end
 	end
