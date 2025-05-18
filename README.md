@@ -25,5 +25,5 @@
 
 ```lua
 getgenv().team = Marines -- Marines/Pirates
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasggk/Hop-fruit-BloxFruits/main/Loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasggk/Hop-fruit-BloxFruits/main/Col.Loader.lua"))()
 ```
