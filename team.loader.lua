@@ -1,6 +1,12 @@
 print(getgenv().team)
+if getgenv().team == "" or getgenv().team == " " then
+  getgenv().team = "Marines"
+else
+  print("")
+end
 
-if getgenv().team == "Pirates" or getgenv().team == "Marines" then
+  
+if tostring(getgenv().team) == "Pirates" or tostring(getgenv().team) == "Marines" then
   local args = {
     [1] = "SetTeam",
     [2] = tostring(getgenv().team)
