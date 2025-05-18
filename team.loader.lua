@@ -1,5 +1,3 @@
-print(getgenv().team)
-
 local team = tostring(getgenv().team)
 
 if team == "" or team == " " then
