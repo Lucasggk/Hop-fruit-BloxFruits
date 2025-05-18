@@ -21,7 +21,7 @@
 
 ---
 
-### ✅ Como usar
+### ✅ Como usar | Versão sem hop server!
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasggk/Hop-fruit-BloxFruits/main/Loader.lua"))()
