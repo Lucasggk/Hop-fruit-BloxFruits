@@ -24,6 +24,6 @@
 ### ✅ Como usar | Versão sem hop server!
 
 ```lua
-getgenv().team = Marines -- Marines/Pirates
+getgenv().team = "Marines" -- Marines/Pirates
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasggk/Hop-fruit-BloxFruits/main/Col.Loader.lua"))()
 ```
