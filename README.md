@@ -1,6 +1,5 @@
-<p align="center">
-  ![Lucas Script](logo.png)
-</p>
+
+  ![Lucas Script](imagem.png)
 
 <h1 align="center">🍇 Hop Fruit - Coleta Automática de Frutas no Blox Fruits! 🍍</h1>
 
